@@ -1,0 +1,13 @@
+let num1: number;
+let num2: number;
+let result: number;
+num1 = 1;
+num2 = 5;
+result = num1 + num2;
+console.log(`Tổng của ${num1} và ${num2} là: ${result}`);
+result = num1 - num2;
+console.log(`Hiệu của ${num1} và ${num2} là: ${result}`);
+result = num1 * num2;
+console.log(`Tích của ${num1} và ${num2} là: ${result}`);
+result = num1 / num2;
+console.log(`Thương của ${num1} và ${num2} là: ${result}`);
